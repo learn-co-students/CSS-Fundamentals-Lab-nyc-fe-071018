@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header,figure {
+  text-align: center;
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: green;
+}
+
+section details  {
+  width: 25%;
+  display: block;
+  color: red;
+
+}
+
+
+
+
